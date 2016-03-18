@@ -3,7 +3,7 @@
 
 //Función que consigue el primer número de un String, ej: String: 10 20 30
 //Nos devuelve 10 de tipo integer
-int get__first_num(char*);
+int get_first_num(char*);
 
 
 int main(){
