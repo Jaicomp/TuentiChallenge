@@ -50,7 +50,7 @@ int get_num(char *linea){
 	while (*linea != 10 && *linea != 32 && *linea != 13 && *linea != '\0'){
 		for(i = 0; posibles_entradas[i] != *linea; i++);
 		
-		if (i == 10){
+		if (posibles_entradas[i] == '-'){
 			negativo = 1;
 		}else{
 			
