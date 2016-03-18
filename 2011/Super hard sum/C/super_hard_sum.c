@@ -10,7 +10,6 @@ int main(){
 
 	char *linea;
 	int resultado;
-	char *ptr;
 	int acumulador;
 
 	//Bucle infinito
