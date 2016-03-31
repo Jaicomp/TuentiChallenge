@@ -1,0 +1,35 @@
+* The Milkman Problem
+
+You are an entrepreneur in Madrid, and have a brilliant idea to open a milk shop in Plaza Mayor. As you are very conscious, you want the milk you sell to be perfectly natural and fresh, and for that reason, you are shipping healthy cows from Zaragoza region to Madrid. At your disposal you have a truck with the weight limit, and a group of cows available for sale. Each cow can weigh differently, and produce a different amount of milk per day.
+
+Your goal as an entrepreneur is to choose which cows to buy and transfer in your truck, so you can maximize the milk production, observing the truck weight limit.
+
+Input Total number cows in Zaragoza area that are for sale.
+
+Input Total weight you truck can handle.
+
+Input List of cow weights, one per cow.
+
+Input List of cow milk production in liters per day, one per cow.
+
+Output the maximum amount of milk production you can get.
+
+Example
+
+
+Cow # 	Cow 	Weight in Kilograms 	Cow Milk Production per Day
+Image 	cow 1 	360 			40
+Image 	cow 2 	250 			35
+Image 	cow 3 	400 			43
+Image 	cow 4 	180 			28
+Image 	cow 5 	50 			12
+Image 	cow 6 	90 			13
+
+Ejemplo con 700kg
+
+Cow # 	Cow 	Weight in Kilograms 	Cow Milk Production per Day
+Image 	cow 1 	360 			40
+Image 	cow 4 	180 			28
+Image 	cow 5 	50 			12
+Image 	cow 6 	90 			13
+4x 	total 	700kg 			total 93L milk production
