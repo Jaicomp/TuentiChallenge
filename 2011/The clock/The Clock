@@ -1,0 +1,13 @@
+* The clock
+
+ You have a digital, 7 led segment, clock. One day, while waking up from a sci-fi dream, you wonder: how many times will the individual leds turn on after X seconds, from a 00:00:00 position?
+
+Yeah, geeks. But as a good geek you will not that question stay on your mind forever, right? ;)
+
+Take into account that every second, all leds turn off and then the ones for the next position will turn on.
+Sample input
+0
+4
+Sample output
+36
+172
